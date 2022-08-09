@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(32, 226, 193)
+
+}
+
+body {background-image: uri('https://image.kmib.co.kr/online_image/2015/1014/201510141706_61160009958017_1.jpg');
+}
+
+.center{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
