@@ -1,0 +1,5 @@
+body {
+    height: 100vh;
+    background: url('https://cdn.pixabay.com/photo/2020/08/09/13/12/man-5475472_960_720.jpg') no-repeat center;
+    background-size: cover;
+}
